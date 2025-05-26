@@ -24,7 +24,7 @@ class CheckDLStore {
 
     PrintWriter out
     boolean safeMode = true
-    Locale locale = Locale.US
+    Locale locale = Locale.UK
 
     CheckDLStore(PrintWriter out) {
         this.out = out
